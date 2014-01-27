@@ -3,8 +3,8 @@ package cod
 import (
 	"errors"
 	"github.com/adabei/goldenbot/events"
-	rcon "github.com/adabei/goldenbot/rcon/cod"
-	"github.com/adabei/goldenbut/events/cod"
+	"github.com/adabei/goldenbot/events/cod"
+	"github.com/adabei/goldenbot/rcon"
 )
 
 type Commands struct {
